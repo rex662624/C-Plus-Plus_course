@@ -5,7 +5,7 @@
 
 *  multi-sorting program :A simple proram sort random generate number by quicksort , selectionSort,and bubbleSort.
 
-#environment:
+# environment:
 
 ```sh
 Dev C++ Version 5.11
